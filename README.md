@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my board exams.
+- 🔭 I’m currently doing a Bachelors degree in computer science engineering.
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on projects.
 - 💬 I'm not qualified enough to answer questions.

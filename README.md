@@ -10,6 +10,8 @@
 ![Python](https://img.shields.io/badge/Python-black.svg?style=for-the-badge&logo=Python&labelColor=black)
 ![html](https://img.shields.io/badge/html-black.svg?style=for-the-badge&logo=html&labelColor=black)
 ![css](https://img.shields.io/badge/css-black.svg?style=for-the-badge&logo=css&labelColor=black)
+![JavaScript](https://img.shields.io/badge/Mysql-black.svg?style=for-the-badge&logo=MySQL&labelColor=black)
+![Django](https://img.shields.io/badge/Mysql-black.svg?style=for-the-badge&logo=MySQL&labelColor=black)
 ![Flask](https://img.shields.io/badge/Flask-black.svg?style=for-the-badge&logo=Flask&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=bootstrap&labelColor=black)
 ![Vim](https://img.shields.io/badge/vim-black.svg?style=for-the-badge&logo=vim&labelColor=black)

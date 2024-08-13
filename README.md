@@ -18,6 +18,7 @@
 ![Vim](https://img.shields.io/badge/vim-black.svg?style=for-the-badge&logo=vim&labelColor=black)
 ![Git](https://img.shields.io/badge/Git-black.svg?style=for-the-badge&logo=Git&labelColor=black)
 ![Github](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=Github&labelColor=black)
+![Version Control](https://img.shields.io/badge/VersionControl-black.svg?style=for-the-badge&logo=VersionControl&labelColor=black)
 ![linux](https://img.shields.io/badge/linux-black.svg?style=for-the-badge&logo=linux&labelColor=black)
 ![Mysql](https://img.shields.io/badge/Mysql-black.svg?style=for-the-badge&logo=MySQL&labelColor=black)
 
